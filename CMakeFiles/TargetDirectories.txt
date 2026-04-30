@@ -1,0 +1,3 @@
+/Users/garailuca/Naprendszer_OpenGL/build/CMakeFiles/SolarSystem.dir
+/Users/garailuca/Naprendszer_OpenGL/build/CMakeFiles/edit_cache.dir
+/Users/garailuca/Naprendszer_OpenGL/build/CMakeFiles/rebuild_cache.dir
